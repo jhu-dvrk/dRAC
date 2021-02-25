@@ -243,6 +243,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHHNJHNA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for dvrk-s-pwm\Design Rule Check - drac_v2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
