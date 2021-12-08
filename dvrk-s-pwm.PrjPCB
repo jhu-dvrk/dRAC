@@ -35,6 +35,12 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -242,7 +248,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XHHNJHNA
+DocumentUniqueId=WWHLIWFG
 
 [Document13]
 DocumentPath=dvrk-s-pwm.BomDoc
@@ -295,71 +301,210 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document16]
+DocumentPath=avcom.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=C06B5A96-C7EF-438B-ACFA-37B51EF0EFAB
+Description=main
+AllowFabrication=0
+ParameterCount=0
+VariationCount=70
+Variation1=Designator=R2_U_m1|UniqueId=\1JLIJLBNR\LVRZVSUE|Kind=0|AlternatePart==Value
+ParamVariation1=ParameterName=Value|VariantValue=50m
+ParamDesignator1=R2_U_m1
+ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamDesignator2=R2_U_m1
+Variation2=Designator=R2_U_m5|UniqueId=\5JLIJLBNR\LVRZVSUE|Kind=0|AlternatePart==Value
+ParamVariation3=ParameterName=Value|VariantValue=50m
+ParamDesignator3=R2_U_m5
+ParamVariation4=ParameterName=Comment|VariantValue==Value
+ParamDesignator4=R2_U_m5
+Variation3=Designator=R2_U_m2|UniqueId=\2JLIJLBNR\LVRZVSUE|Kind=0|AlternatePart==Value
+ParamVariation5=ParameterName=Value|VariantValue=15m
+ParamDesignator5=R2_U_m2
+ParamVariation6=ParameterName=Comment|VariantValue==Value
+ParamDesignator6=R2_U_m2
+Variation4=Designator=R2_U_m4|UniqueId=\4JLIJLBNR\LVRZVSUE|Kind=0|AlternatePart==Value
+ParamVariation7=ParameterName=Value|VariantValue=50m
+ParamDesignator7=R2_U_m4
+ParamVariation8=ParameterName=Comment|VariantValue==Value
+ParamDesignator8=R2_U_m4
+Variation5=Designator=R2_U_m3|UniqueId=\3JLIJLBNR\LVRZVSUE|Kind=0|AlternatePart==Value
+ParamVariation9=ParameterName=Value|VariantValue=15m
+ParamDesignator9=R2_U_m3
+ParamVariation10=ParameterName=Comment|VariantValue==Value
+ParamDesignator10=R2_U_m3
+Variation6=Designator=R3_U_m1|UniqueId=\1JLIJLBNR\YREMLRMW|Kind=0|AlternatePart==Value
+ParamVariation11=ParameterName=Value|VariantValue=50m
+ParamDesignator11=R3_U_m1
+ParamVariation12=ParameterName=Comment|VariantValue==Value
+ParamDesignator12=R3_U_m1
+Variation7=Designator=R3_U_m5|UniqueId=\5JLIJLBNR\YREMLRMW|Kind=0|AlternatePart==Value
+ParamVariation13=ParameterName=Value|VariantValue=50m
+ParamDesignator13=R3_U_m5
+ParamVariation14=ParameterName=Comment|VariantValue==Value
+ParamDesignator14=R3_U_m5
+Variation8=Designator=R3_U_m4|UniqueId=\4JLIJLBNR\YREMLRMW|Kind=0|AlternatePart==Value
+ParamVariation15=ParameterName=Value|VariantValue=50m
+ParamDesignator15=R3_U_m4
+ParamVariation16=ParameterName=Comment|VariantValue==Value
+ParamDesignator16=R3_U_m4
+Variation9=Designator=R3_U_m3|UniqueId=\3JLIJLBNR\YREMLRMW|Kind=0|AlternatePart==Value
+ParamVariation17=ParameterName=Value|VariantValue=50m
+ParamDesignator17=R3_U_m3
+ParamVariation18=ParameterName=Comment|VariantValue==Value
+ParamDesignator18=R3_U_m3
+Variation10=Designator=R3_U_m2|UniqueId=\2JLIJLBNR\YREMLRMW|Kind=0|AlternatePart==Value
+ParamVariation19=ParameterName=Value|VariantValue=50m
+ParamDesignator19=R3_U_m2
+ParamVariation20=ParameterName=Comment|VariantValue==Value
+ParamDesignator20=R3_U_m2
+Variation11=Designator=C44_U_m1|UniqueId=\1JLIJLBNR\HKUZWACB|Kind=1|AlternatePart= 
+Variation12=Designator=C46_U_m2|UniqueId=\2JLIJLBNR\NTDRGBSK|Kind=1|AlternatePart= 
+Variation13=Designator=R19_U_m4|UniqueId=\4JLIJLBNR\HRMGMHDC|Kind=1|AlternatePart= 
+Variation14=Designator=R20_U_m3|UniqueId=\3JLIJLBNR\VKYSJFIU|Kind=1|AlternatePart= 
+Variation15=Designator=R24_U_m1|UniqueId=\1JLIJLBNR\HAXWUXII|Kind=1|AlternatePart= 
+Variation16=Designator=R18_U_m3|UniqueId=\3JLIJLBNR\HYUPPOZQ|Kind=1|AlternatePart= 
+Variation17=Designator=R25_U_m1|UniqueId=\1JLIJLBNR\SWZMCETU|Kind=1|AlternatePart= 
+Variation18=Designator=R25_U_m2|UniqueId=\2JLIJLBNR\SWZMCETU|Kind=1|AlternatePart= 
+Variation19=Designator=R24_U_m5|UniqueId=\5JLIJLBNR\HAXWUXII|Kind=1|AlternatePart= 
+Variation20=Designator=R20_U_m2|UniqueId=\2JLIJLBNR\VKYSJFIU|Kind=1|AlternatePart= 
+Variation21=Designator=C48_U_m4|UniqueId=\4JLIJLBNR\JJSKNRWV|Kind=1|AlternatePart= 
+Variation22=Designator=R25_U_m5|UniqueId=\5JLIJLBNR\SWZMCETU|Kind=1|AlternatePart= 
+Variation23=Designator=R25_U_m4|UniqueId=\4JLIJLBNR\SWZMCETU|Kind=1|AlternatePart= 
+Variation24=Designator=R19_U_m5|UniqueId=\5JLIJLBNR\HRMGMHDC|Kind=1|AlternatePart= 
+Variation25=Designator=R27_U_m1|UniqueId=\1JLIJLBNR\YHJMSIGF|Kind=1|AlternatePart= 
+Variation26=Designator=R19_U_m3|UniqueId=\3JLIJLBNR\HRMGMHDC|Kind=1|AlternatePart= 
+Variation27=Designator=R20_U_m1|UniqueId=\1JLIJLBNR\VKYSJFIU|Kind=1|AlternatePart= 
+Variation28=Designator=R17_U_m3|UniqueId=\3JLIJLBNR\RBEQHGYT|Kind=1|AlternatePart= 
+Variation29=Designator=R20_U_m4|UniqueId=\4JLIJLBNR\VKYSJFIU|Kind=1|AlternatePart= 
+Variation30=Designator=R26_U_m1|UniqueId=\1JLIJLBNR\HLYTOTJP|Kind=1|AlternatePart= 
+Variation31=Designator=R20_U_m5|UniqueId=\5JLIJLBNR\VKYSJFIU|Kind=1|AlternatePart= 
+Variation32=Designator=R19_U_m2|UniqueId=\2JLIJLBNR\HRMGMHDC|Kind=1|AlternatePart= 
+Variation33=Designator=R17_U_m2|UniqueId=\2JLIJLBNR\RBEQHGYT|Kind=1|AlternatePart= 
+Variation34=Designator=R26_U_m2|UniqueId=\2JLIJLBNR\HLYTOTJP|Kind=1|AlternatePart= 
+Variation35=Designator=R19_U_m1|UniqueId=\1JLIJLBNR\HRMGMHDC|Kind=1|AlternatePart= 
+Variation36=Designator=R17_U_m1|UniqueId=\1JLIJLBNR\RBEQHGYT|Kind=1|AlternatePart= 
+Variation37=Designator=R26_U_m3|UniqueId=\3JLIJLBNR\HLYTOTJP|Kind=1|AlternatePart= 
+Variation38=Designator=R18_U_m5|UniqueId=\5JLIJLBNR\HYUPPOZQ|Kind=1|AlternatePart= 
+Variation39=Designator=R26_U_m4|UniqueId=\4JLIJLBNR\HLYTOTJP|Kind=1|AlternatePart= 
+Variation40=Designator=C48_U_m5|UniqueId=\5JLIJLBNR\JJSKNRWV|Kind=1|AlternatePart= 
+Variation41=Designator=C48_U_m2|UniqueId=\2JLIJLBNR\JJSKNRWV|Kind=1|AlternatePart= 
+Variation42=Designator=R18_U_m4|UniqueId=\4JLIJLBNR\HYUPPOZQ|Kind=1|AlternatePart= 
+Variation43=Designator=R26_U_m5|UniqueId=\5JLIJLBNR\HLYTOTJP|Kind=1|AlternatePart= 
+Variation44=Designator=R18_U_m2|UniqueId=\2JLIJLBNR\HYUPPOZQ|Kind=1|AlternatePart= 
+Variation45=Designator=C48_U_m3|UniqueId=\3JLIJLBNR\JJSKNRWV|Kind=1|AlternatePart= 
+Variation46=Designator=R27_U_m2|UniqueId=\2JLIJLBNR\YHJMSIGF|Kind=1|AlternatePart= 
+Variation47=Designator=R24_U_m2|UniqueId=\2JLIJLBNR\HAXWUXII|Kind=1|AlternatePart= 
+Variation48=Designator=R18_U_m1|UniqueId=\1JLIJLBNR\HYUPPOZQ|Kind=1|AlternatePart= 
+Variation49=Designator=R27_U_m3|UniqueId=\3JLIJLBNR\YHJMSIGF|Kind=1|AlternatePart= 
+Variation50=Designator=R24_U_m3|UniqueId=\3JLIJLBNR\HAXWUXII|Kind=1|AlternatePart= 
+Variation51=Designator=R17_U_m5|UniqueId=\5JLIJLBNR\RBEQHGYT|Kind=1|AlternatePart= 
+Variation52=Designator=R27_U_m4|UniqueId=\4JLIJLBNR\YHJMSIGF|Kind=1|AlternatePart= 
+Variation53=Designator=R17_U_m4|UniqueId=\4JLIJLBNR\RBEQHGYT|Kind=1|AlternatePart= 
+Variation54=Designator=R24_U_m4|UniqueId=\4JLIJLBNR\HAXWUXII|Kind=1|AlternatePart= 
+Variation55=Designator=R27_U_m5|UniqueId=\5JLIJLBNR\YHJMSIGF|Kind=1|AlternatePart= 
+Variation56=Designator=R25_U_m3|UniqueId=\3JLIJLBNR\SWZMCETU|Kind=1|AlternatePart= 
+Variation57=Designator=C44_U_m4|UniqueId=\4JLIJLBNR\HKUZWACB|Kind=1|AlternatePart= 
+Variation58=Designator=C44_U_m3|UniqueId=\3JLIJLBNR\HKUZWACB|Kind=1|AlternatePart= 
+Variation59=Designator=C44_U_m5|UniqueId=\5JLIJLBNR\HKUZWACB|Kind=1|AlternatePart= 
+Variation60=Designator=C45_U_m1|UniqueId=\1JLIJLBNR\XEIFTRZZ|Kind=1|AlternatePart= 
+Variation61=Designator=C45_U_m2|UniqueId=\2JLIJLBNR\XEIFTRZZ|Kind=1|AlternatePart= 
+Variation62=Designator=C45_U_m3|UniqueId=\3JLIJLBNR\XEIFTRZZ|Kind=1|AlternatePart= 
+Variation63=Designator=C45_U_m4|UniqueId=\4JLIJLBNR\XEIFTRZZ|Kind=1|AlternatePart= 
+Variation64=Designator=C45_U_m5|UniqueId=\5JLIJLBNR\XEIFTRZZ|Kind=1|AlternatePart= 
+Variation65=Designator=C44_U_m2|UniqueId=\2JLIJLBNR\HKUZWACB|Kind=1|AlternatePart= 
+Variation66=Designator=C46_U_m1|UniqueId=\1JLIJLBNR\NTDRGBSK|Kind=1|AlternatePart= 
+Variation67=Designator=C46_U_m3|UniqueId=\3JLIJLBNR\NTDRGBSK|Kind=1|AlternatePart= 
+Variation68=Designator=C46_U_m4|UniqueId=\4JLIJLBNR\NTDRGBSK|Kind=1|AlternatePart= 
+Variation69=Designator=C46_U_m5|UniqueId=\5JLIJLBNR\NTDRGBSK|Kind=1|AlternatePart= 
+Variation70=Designator=C48_U_m1|UniqueId=\1JLIJLBNR\JJSKNRWV|Kind=1|AlternatePart= 
+ParamVariationCount=20
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for dvrk-s-pwm\Design Rule Check - drac_v2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.DRR
+DocumentPath=Project Outputs for dvrk-s-pwm\Design Rule Check - drac_v3.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.EXTREP
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GBL
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GBO
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GBP
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GBS
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GKO
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GP1
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GP2
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GTL
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GTO
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GTP
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GTS
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.LDP
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.REP
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v2.TXT
 DItemRevisionGUID=
 
@@ -482,7 +627,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother PT-P700
+TargetPrinter=HP LaserJet M506 [7CFA0C]
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -497,43 +642,43 @@ OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name2=OutputConfigurationParameter2
-Configuration1_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name3=OutputConfigurationParameter3
-Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name4=OutputConfigurationParameter4
-Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name5=OutputConfigurationParameter5
-Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name6=OutputConfigurationParameter6
-Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name7=OutputConfigurationParameter7
-Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name8=OutputConfigurationParameter8
-Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name9=OutputConfigurationParameter9
-Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name10=OutputConfigurationParameter10
-Configuration1_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name11=OutputConfigurationParameter11
-Configuration1_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name12=OutputConfigurationParameter12
-Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name13=OutputConfigurationParameter13
-Configuration1_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name14=OutputConfigurationParameter14
-Configuration1_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name15=OutputConfigurationParameter15
-Configuration1_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name16=OutputConfigurationParameter16
-Configuration1_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name17=OutputConfigurationParameter17
-Configuration1_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name18=OutputConfigurationParameter18
-Configuration1_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical23|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical23|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 Configuration1_Name19=OutputConfigurationParameter19
-Configuration1_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v2.PcbDoc
+Configuration1_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\keshuai\Desktop\dvrk-s-pwm\drac_v3.PcbDoc
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Print
 OutputDocumentPath2=
@@ -620,7 +765,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother PT-P700
+TargetPrinter=HP LaserJet M506 [7CFA0C]
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
