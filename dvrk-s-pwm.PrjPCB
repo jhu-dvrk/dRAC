@@ -166,23 +166,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XYFFAPDO
 
 [Document8]
-DocumentPath=dvrk-s-pwm.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BTIYLKAJ
-
-[Document9]
 DocumentPath=dvrk-s-pwm.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PZDUJTKJ
 
-[Document10]
+[Document9]
 DocumentPath=dvrk-s-pwm.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=dvrk-s-pwm_1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,24 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCPJJQEN
 
-[Document12]
-DocumentPath=drac_v2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WWHLIWFG
-
-[Document13]
+[Document11]
 DocumentPath=dvrk-s-pwm.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=drac_v3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHHNJHNA
 
-[Document15]
+[Document13]
 DocumentPath=dvrk-s-pwm.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=avcom.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +593,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet M506 [7CFA0C]
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -765,7 +731,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet M506 [7CFA0C]
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
