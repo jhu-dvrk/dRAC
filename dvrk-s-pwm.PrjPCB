@@ -318,6 +318,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMHTPWYI
 
+[Document17]
+DocumentPath=drac_v31.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QPJSERTF
+
 [ProjectVariant1]
 UniqueID=C06B5A96-C7EF-438B-ACFA-37B51EF0EFAB
 Description=main
