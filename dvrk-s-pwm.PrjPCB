@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
+IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -667,34 +668,30 @@ DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.REP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument38]
 DocumentPath=drac_v3 3-14-2022 2-03-55 PM.WAS
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for dvrk-s-pwm\Embedded Boards Stackup Compatibility - drac_v3_panel.html
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for dvrk-s-pwm\Pick Place for drac_v3(main).csv
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for dvrk-s-pwm\Pick Place for drac_v3(main).txt
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for dvrk-s-pwm\Pick Place for drac_v3_panel(main).csv
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for dvrk-s-pwm\Pick Place for drac_v3_panel(main).txt
 DItemRevisionGUID=
 
