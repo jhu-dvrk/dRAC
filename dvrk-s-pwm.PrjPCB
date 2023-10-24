@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for dvrk-s-pwm
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -372,6 +372,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXFRHSJJ
 
+[Document20]
+DocumentPath=dvrk-s-pwm.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=C06B5A96-C7EF-438B-ACFA-37B51EF0EFAB
 Description=main
@@ -513,311 +530,79 @@ Variation102=Designator=D12|UniqueId=\IJTVQTED\IBSKESBT|Kind=1|AlternatePart=
 ParamVariationCount=15
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for dvrk-s-pwm\Design Rule Check - drac_v3.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for dvrk-s-pwm\Design Rule Check - drac_v3_panel.html
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.G1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GP3
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for dvrk-s-pwm\drac_v3_panel.zip
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument19]
 DocumentPath=drac_v3 3-14-2022 2-03-55 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\dielectric_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\dielectric_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\dielectric_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\dielectric_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\drill_non-plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\drill_plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\mid_layer_1_gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\mid_layer_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\mid_layer_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\mid_layer_4_gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\dielectric_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\dielectric_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\dielectric_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\dielectric_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\drill_non-plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\drill_plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\mid_layer_1_gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\mid_layer_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\mid_layer_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\mid_layer_4_gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Project Outputs for dvrk-s-pwm\Pick Place for drac_v3_panel(main).csv
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Project Outputs for dvrk-s-pwm\Pick Place for drac_v3_panel(main).txt
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\profile
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\drill_non-plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\panel\layers\drill_plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\drill_non-plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=Project Outputs for dvrk-s-pwm\odb\steps\pcb1\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -829,6 +614,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for dvrk-s-pwm
 
 [OutputGroup1]
 Name=Netlist Outputs
